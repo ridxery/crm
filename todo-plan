@@ -1,0 +1,13 @@
+==In Progress==
+- Customer Model & DB & Factory & Seeder
+- CRUD Customer functionality
+-- Create page
+-- Edit page
+-- List page
+-- Delete action
+- Dashboard widget - showing total customers block
+- Events (e.g. meeting/reminder) like functionality + show these on calendar (seperate page)
+- Dashboard widget to show Upcoming or Today Events
+- refactoring (maybe later?)
+
+==Done==
