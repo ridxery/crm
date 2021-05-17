@@ -23,7 +23,7 @@ Open Source CRM
 
  Clone the repo
    ```sh
-   git clone repo-link
+   git clone https://github.com/ridxery/crm
    ```
  Install Composer/PHP packages
    ```sh

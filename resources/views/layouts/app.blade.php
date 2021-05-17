@@ -9,7 +9,7 @@
         @livewireScripts
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
         <script src="/assets/js/bootstrap500bundle.min.js" async="async"></script>
-        <title>Ridxery CRM</title>
+        <title>Ridxery's CRM</title>
     </head>
     <body>
         @if(Auth::guest())

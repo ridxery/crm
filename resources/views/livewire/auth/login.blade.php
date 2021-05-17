@@ -4,7 +4,7 @@
             <div class="card">
                 <div class="card-header">
                     <h2 class="text-center">
-                        Ridxery Playground
+                        CRM
                     </h2>
                 </div>
                 <div class="card-body">

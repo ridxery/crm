@@ -15,11 +15,6 @@ class Login extends Component
         'password' => 'required|string|min:8|max:64',
     ];
 
-//    protected $validationAttributes = [
-//        'email' => 'E-Mail',
-//        'password' => 'Password'
-//    ];
-
     public function login()
     {
         $this->validate();

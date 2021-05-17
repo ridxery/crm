@@ -9,7 +9,6 @@ class Top extends Component
 {
     public $darkMode;
 
-
     public function mount()
     {
         $this->darkMode = Auth::user()->dark_mode ?? true;

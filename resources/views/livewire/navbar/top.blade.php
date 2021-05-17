@@ -33,8 +33,11 @@
                     </li>
                 </ul>
                 <div class="form-check form-switch" wire:click.prevent="changeMode">
-                    <input class="form-check-input" type="checkbox" id="darkModeBtn" @if($darkMode) checked @endif>
-                    <label class="form-check-label" for="darkModeBtn"><i class="fa fa-moon @if(!$darkMode) text-muted @endif"></i></label>
+                    <input class="form-check-input" type="checkbox" id="darkModeBtn"
+                           @if($darkMode) checked @endif>
+                    <label class="form-check-label" for="darkModeBtn">
+                        <i class="fa fa-moon @if(!$darkMode) text-muted @endif"></i>
+                    </label>
                 </div>
                 <div class="d-flex mx-2">
                     <button class="nav-item btn btn-sm btn-outline-danger" wire:click="logout">
