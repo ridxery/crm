@@ -1,5 +1,5 @@
 ==In Progress==
-- Customer Model & DB & Factory & Seeder
+
 - CRUD Customer functionality
 -- Create page
 -- Edit page
@@ -11,3 +11,4 @@
 - refactoring (maybe later?)
 
 ==Done==
++ Customer Model & DB & Factory & Seeder
